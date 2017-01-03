@@ -8,4 +8,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> cd TalentNetCodingChallenge
 	> npm install
 	> npm start
+	> Open http://localhost:8080 in a browser
 ```
