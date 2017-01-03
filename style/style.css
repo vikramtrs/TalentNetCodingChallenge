@@ -1,0 +1,43 @@
+.diem {
+  padding-left: 3px;
+}
+
+.error {
+  color: red;
+}
+
+.heading {
+  text-align: center;
+}
+
+.logout {
+  color: white !important;
+}
+
+.logout:hover {
+  background-color: red !important;
+}
+
+.nav {
+  padding-top: 10px;
+}
+
+.nav>li {
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+th {
+  text-align: center !important;
+}
+
+.signinForm {
+  text-align: left;
+  width: 30%;
+  margin: 0 auto;
+  padding-top: 10%;
+}

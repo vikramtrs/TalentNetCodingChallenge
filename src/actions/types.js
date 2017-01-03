@@ -1,0 +1,7 @@
+export const AUTH_USER = 'AUTH_USER';
+export const UNAUTH_USER = 'UNAUTH_USER';
+export const SET_USER = 'SET_USER';
+export const CREATE_TIME_LOG = 'CREATE_TIME_LOG';
+export const SET_SELECTED_DATE = 'SET_SELECTED_DATE';
+export const POPULATE_TIME_LOGS = 'POPULATE_TIME_LOGS';
+export const REMOVE_TIME_LOGS = 'REMOVE_TIME_LOGS';
